@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(101, 147, 223);
+    text-align: center;
+    font-family : "Consolas";
+    color :darkred;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 3px solid #DDD;
+    margin: 0 auto;
+    background-color: gray;
+
+}
+
+#cabecera
+{
+    background:#33D;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+
+
+#container h1
+{
+    font-size: 20px;
+}
